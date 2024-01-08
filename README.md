@@ -3,6 +3,11 @@
 Objective
 The goal of this project is to create a diversified portfolio of stocks by utilizing Modern Portfolio Theory (MPT) and implementing a Momentum Trading strategy. The objective is to strike a balance between risk and profit while comparing different investment approaches.
 
+Sectors:
+1. Consumer Discretionary Sector
+2. Industrial Sector
+3. Technology Sector
+
 Procedures
 
 1. Data Preparation
@@ -14,6 +19,12 @@ Data cleaning was performed to handle missing values.
 The Momentum Trading strategy was applied to each stock using data from 2021.
 The 8-21 Momentum Trading Strategy was employed to identify the three best-performing stocks in each sector.
 Performance of the strategy was visualized with one plot per sector.
+
+Top performing Stocks for every Sector:
+1. Consumer Discretionary Sector: TSLA (Tesla) , Low (LOWE's Companies) and AMZN (Amazon)
+2. Industrial Sector: DE (Deere & Company) , CAT (Caterpillar Inc.) and UPS (United Parcel Services Inc.)
+3. Technology Sector: NVDA (Nvidia Corp.) , AAPL (Apple Inc.) and AMD (Advanced Micro Devices Inc.)
+
 
 3. Modern Portfolio Theory
 An optimization model was created to determine optimal portfolio allocations using MPT.
