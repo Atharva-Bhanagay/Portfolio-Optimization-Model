@@ -21,9 +21,9 @@ The 8-21 Momentum Trading Strategy was employed to identify the three best-perfo
 Performance of the strategy was visualized with one plot per sector.
 
 3. Top performing Stocks for every Sector:
-  1. Consumer Discretionary Sector: TSLA (Tesla) , Low (LOWE's Companies) and AMZN (Amazon)
-  2. Industrial Sector: DE (Deere & Company) , CAT (Caterpillar Inc.) and UPS (United Parcel Services Inc.)
-  3. Technology Sector: NVDA (Nvidia Corp.) , AAPL (Apple Inc.) and AMD (Advanced Micro Devices Inc.)
+    1. Consumer Discretionary Sector: TSLA (Tesla) , Low (LOWE's Companies) and AMZN (Amazon)
+    2. Industrial Sector: DE (Deere & Company) , CAT (Caterpillar Inc.) and UPS (United Parcel Services Inc.)
+    3. Technology Sector: NVDA (Nvidia Corp.) , AAPL (Apple Inc.) and AMD (Advanced Micro Devices Inc.)
 
 
 4. Modern Portfolio Theory
