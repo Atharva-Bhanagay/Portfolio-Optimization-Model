@@ -37,7 +37,7 @@ A portfolio allocation consisting of exactly three stocks was selected from the 
 Evaluated the performance of the portfolio for a 100K investment using different investment strategies.
 Analyzed the impact of the chosen strategies on the overall portfolio.
 Comparison included:
-Buy-and-hold strategy for the MPT portfolio
-8-21 Momentum trading on S&P 500 index (^GSPC)
-Buy-and-hold strategy for the S&P 500 index (^GSPC)
+    1. Buy-and-hold strategy for the MPT portfolio
+    2. 8-21 Momentum trading on S&P 500 index (^GSPC)
+    3. Buy-and-hold strategy for the S&P 500 index (^GSPC)
 
