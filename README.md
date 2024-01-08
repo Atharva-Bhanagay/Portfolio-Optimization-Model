@@ -34,7 +34,8 @@ Plots were generated to showcase the expected return for different risk levels.
 A portfolio allocation consisting of exactly three stocks was selected from the MPT model's solutions.
 
 5. Analysis: 
-The quality of various investments was evaluated using data from 2022.
+Evaluated the performance of the portfolio for a 100K investment using different investment strategies.
+Analyzed the impact of the chosen strategies on the overall portfolio.
 Comparison included:
 Buy-and-hold strategy for the MPT portfolio
 8-21 Momentum trading on S&P 500 index (^GSPC)
