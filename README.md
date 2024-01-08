@@ -20,20 +20,20 @@ The Momentum Trading strategy was applied to each stock using data from 2021.
 The 8-21 Momentum Trading Strategy was employed to identify the three best-performing stocks in each sector.
 Performance of the strategy was visualized with one plot per sector.
 
-Top performing Stocks for every Sector:
-1. Consumer Discretionary Sector: TSLA (Tesla) , Low (LOWE's Companies) and AMZN (Amazon)
-2. Industrial Sector: DE (Deere & Company) , CAT (Caterpillar Inc.) and UPS (United Parcel Services Inc.)
-3. Technology Sector: NVDA (Nvidia Corp.) , AAPL (Apple Inc.) and AMD (Advanced Micro Devices Inc.)
+3. Top performing Stocks for every Sector:
+  1. Consumer Discretionary Sector: TSLA (Tesla) , Low (LOWE's Companies) and AMZN (Amazon)
+  2. Industrial Sector: DE (Deere & Company) , CAT (Caterpillar Inc.) and UPS (United Parcel Services Inc.)
+  3. Technology Sector: NVDA (Nvidia Corp.) , AAPL (Apple Inc.) and AMD (Advanced Micro Devices Inc.)
 
 
-3. Modern Portfolio Theory
+4. Modern Portfolio Theory
 An optimization model was created to determine optimal portfolio allocations using MPT.
 The stocks identified through the 8-21 Momentum Trading Strategy were used for the portfolio.
 Data from 2017-2021 was utilized to train the model.
 Plots were generated to showcase the expected return for different risk levels.
 A portfolio allocation consisting of exactly three stocks was selected from the MPT model's solutions.
 
-4. Analysis
+5. Analysis
 The quality of various investments was evaluated using data from 2022.
 Comparison included:
 Buy-and-hold strategy for the MPT portfolio
