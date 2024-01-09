@@ -1,6 +1,6 @@
 # Stock Portfolio Optimization and Momentum Trading Project
 
-Objective
+Objective:
 The goal of this project is to create a diversified portfolio of stocks by utilizing Modern Portfolio Theory (MPT) and implementing a Momentum Trading strategy. The objective is to strike a balance between risk and profit while comparing different investment approaches.
 
 Sectors:
